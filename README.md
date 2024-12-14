@@ -1,1 +1,1 @@
-# microservices-class
+# Microservices Class Project
